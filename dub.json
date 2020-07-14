@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Peter Wood"
+	],
+	"copyright": "Copyright © 2020, Peter Wood",
+	"description": "A D library for generating SQL code.",
+	"license": "MIT",
+	"name": "sqlist"
+}
